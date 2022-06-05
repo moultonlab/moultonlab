@@ -1,0 +1,35 @@
+// Set bakground for /author/<name> text container
+.author-text {
+    .article-style {
+        background: $sta-home-section-even;
+        padding: 30px;
+    }
+}
+
+// Color the the publications section as well
+#container-publications {
+    background: $sta-home-section-even;
+
+    // Don't need blue links here
+    a {
+        color: inherit;
+    }
+}
+
+// Light blue links: "click this"
+.page-body {
+    a {
+        color: #81b1fc;
+    }
+}
+
+// Hero changes fonts and links for some reason
+// Inconsistent with the rest of the webpage!
+.wg-hero .hero-lead a {
+  text-decoration: none;
+}
+
+.hero-lead {
+  max-width: 768px;
+  font-size: 1rem;
+}
