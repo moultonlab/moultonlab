@@ -21,6 +21,23 @@
     a {
         color: #81b1fc;
     }
+    div.blank-left {
+        float: left;
+        width: 50%;
+    }
+
+    div.blank-right {
+        float: right;
+        width: 50%;
+    }
+
+    div.space-bot {
+        margin-bottom: 1rem;
+    }
+
+    div.center-text {
+        text-align: center;
+    }
 }
 
 // Hero changes fonts and links for some reason

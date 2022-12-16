@@ -45,18 +45,11 @@ user_groups:
   - Principal Investigator
 ---
 
+Hong was trained as a structural biochemist and bioconjugation chemist. She has been working
+on PMO-related research and drug development since 1997. She worked for AVI Biopharma
+(renamed as Sarepta Therapeutics Inc.) for 13 years with her focus on improving cellular
+delivery of PMOs, and invented the PPMO technology there.
 
-My long-term research interest is to improve delivery of Morpholinos into cells in adult tissues, enabling the therapeutic use of Morpholinos for treatment of a broad range of diseases. Chemical structures have been found which, when linked to a Morpholino oligo, enhance the delivery of the Morpholinos from blood into the cytosol of cells. I invented a class of compounds, the peptide-linked Morpholino oligos (PPMO), which are in clinical trials and are the workhorse molecules produced in my laboratory for many applications for eukaryotic and prokaryotic systems. I am also studying alternative strategies for enhancing Morpholino delivery in vivo by other chemical modifications and formulations.
-
-PPMOs designed and produced in my lab have been investigated for the following applications:
-
-__Eukaryotic systems:__
-
-- Host and pathogen interactions
-- Genetic diseases, including cystic fibrosis, spinal muscular atrophy, Duchenne muscular dystrophy
-- Viral pathogens, including SARS-CoV2, Lasse virus, influenza virus, and dengue virus
-- Multiple sclerosis
-- Cancers
-
-__Prokaryotic systems:__
-- Bacterial pathogens that cause coral, oyster, and citrus green diseases
+Since 2010, She has been enjoying
+the freedom at OSU to pursue PMO research and drug development in diverse fields and the
+having the honors to work with many outstanding collaborators.

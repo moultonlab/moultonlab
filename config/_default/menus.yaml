@@ -16,9 +16,6 @@ main:
   - name: Research and Applications
     url: research
     weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
   - name: Collaboration and Service
     url: collaboration
     weight: 60

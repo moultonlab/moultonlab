@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Matthew Kwak
+title: Mahsa Khoshbakht, PhD
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Labratory Assistant
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio:
 #social:
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'mailto:@oregonstate.edu'
+#    link: 'mailto:Susan.Hatlevig@oregonstate.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -30,7 +30,7 @@ bio:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email:  Susan.Hatlevig@oregonstate.edu
+email:  ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -38,6 +38,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Researchers
+  - Researchers
 ---
-I'm a 4th-year undergraduate student majoring in biology with a minor in statistics. I am interested in genetics and want to work in that field once I graduate. Outside of academics, I like to play video games and sports.
+Mahsa is an organic chemist and working on chemical modifications of PMOs to enhance delivery. She enjoys hiking, cooking, and travel!

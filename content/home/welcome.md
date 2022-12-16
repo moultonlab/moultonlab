@@ -15,6 +15,9 @@ design:
   css_style: ""
   flip: false
 
+  spacing:
+    padding: ["1rem", "0", "1rem", "0"]
+
   # b799c8
 
 ---
@@ -23,12 +26,14 @@ design:
 
 </br>
 
-With combined experience of over 70 years in the industry, the Moulton lab continues to be involved in cutting-edge biomedical research...
+Our lab develops new ways for in vivo delivery of antisense oligomers (ASOs) such as
+phosphorodiamidate morpholino oligos (PMOs) to their target RNAs. We work on to improve delivery of
+PMOs into cells in adult tissues, enabling the therapeutic use of PMOs for a broad range of diseases.
+With combined experience of over 70 years in the research and drug development of PMOs, the
+Moulton lab continues to be involved in cutting-edge biomedical research in viral, bacterial, genetic
+diseases as well as cancers. We are funded by grants from NIH, DoD, USDA, private foundations and
+industrial contracts. We supply our delivery enabled PMOs to academic and industrial communities for
+research and drug development.
 
-Our lab develops new ways for *in vivo* delivery of antisense morpholino oligos to their target RNAs without toxicity.
-
-We supply our delivery-enabled morpholinos to academic and industrial communities for research and drug development.
-
-The Moulton lab provides peptide and morpholino conjugation service for fee and/or collaboration.
-[Contact for more information](/contact).
-
+Our lab also provides PMO conjugation service for fee and/or collaboration. Please [contact us](./contact) for more information.
+We can conjugate PMOs to peptides, small molecule ligands, and proteins.
