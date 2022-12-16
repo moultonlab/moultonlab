@@ -13,7 +13,7 @@ design:
   css_class: ""
   css_style: ""
   spacing:
-    padding: ["35px", "0px", "35px", "0px"]
+    padding: ["1rem", "0px", "1rem", "0px"]
 
 ---
 
