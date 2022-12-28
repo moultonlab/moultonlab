@@ -37,5 +37,6 @@ highlight_name: false
 user_groups:
   - Undergraduate Researchers
 
-nobio: true
+nobio: false
 ---
+Yingshan is a first-year student majoring in Biochemistry & Molecular Biology. She's interested in studying the new approaches for enhancing the delivery of peptide-linked Morpholinos oligos into the cells and its application to human diseases pharmacologically.

@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Soheila Kazemi, PhD, DVM
+title: Soheila Kazemi
+degree: PhD, DVM
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Scholar
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -40,4 +41,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Soheila is a cell biologist and working on identifying a delivery enabled PMO for cancers. She is a professional volleyball player, referee, and soccer fan!
+Soheila is a molecular and cell biologist working on identifying a delivery enabled PMO for cancer therapies. She is a professional volleyball player, referee, and soccer fan!

@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Susan Hatlevig, PhD
+title: Susan Hatlevig
+degree: PhD
 
 # Is this the primary user of the site?
 superuser: false
@@ -40,8 +41,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Susan is a chemist and has been working with mass spectrometry for 25 years including over 20
-years’ experience in analyzing PMOs and PPMOs for research and preparing IND documents for
-FDA.
-
 Susan is a chemist and has been working with mass spectrometry for 25 years including over 20 years of experience in analyzing PMOs and PPMOs for research and preparing IND documents for FDA. She enjoys international dance, birding, gardening, and travel!

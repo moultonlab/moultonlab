@@ -1,6 +1,8 @@
 ---
 # Display name
-title: Mahsa Khoshbakht, PhD
+title: Mahsa Khoshbakht
+
+degree: PhD
 
 # Is this the primary user of the site?
 superuser: false
@@ -28,6 +30,7 @@ bio:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email:  ""

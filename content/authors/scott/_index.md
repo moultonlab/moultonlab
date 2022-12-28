@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Scott Bittner, PhD
+title: Scott Bittner
+degree: PhD
 
 # Is this the primary user of the site?
 superuser: false
@@ -40,4 +41,7 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Scott is biologist and working on developing formulations to enhance PMO delivery. When not at the lab bench, he can be found surfing or wandering the woods!
+Scott is a Postdoctoral Scholar with an aggressive interest in oligo delivery. He views research as a
+creative act, and he hopes to contribute to enabling new therapies through development of
+innovative oligo delivery tactics. When not at the bench, he may be found surfing or wandering
+around in the woods.

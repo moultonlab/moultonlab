@@ -1,6 +1,7 @@
 ---
 # Display name
 title: David Stein
+degree: BS
 
 # Is this the primary user of the site?
 superuser: false
@@ -41,4 +42,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Dave is a virologist and instrumental in applying PPMO technology to virological research and drug development for last twenty years.  He is a huge Beaver fan and has a large collection of cacti!
+David graduated from Oregon State University and has been studying the molecular biology of pathogenic viruses for over 25 years. His major focus has been on developing peptide-conjugated morpholino oligomers (PPMO) for virology research and drug development.
+He is a huge Beaver fan and has a large collection of cacti!

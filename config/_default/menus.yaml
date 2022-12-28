@@ -19,6 +19,9 @@ main:
   - name: Collaboration and Service
     url: collaboration
     weight: 60
+  - name: Publications
+    url: https://www.ncbi.nlm.nih.gov/myncbi/1ZcihMwuqk5cp4/bibliography/public/
+    weight: 65
   - name: Contact
     url: contact
     weight: 70

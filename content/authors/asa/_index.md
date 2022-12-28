@@ -38,5 +38,6 @@ highlight_name: false
 user_groups:
   - Undergraduate Researchers
 
-nobio: true
+nobio: false
 ---
+Asa is an undergraduate student in biochemistry and molecular biology. He has an interest in helping others through research.
