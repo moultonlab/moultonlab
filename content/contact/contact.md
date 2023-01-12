@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '44.5631'
     longitude: '-123.2851'
-  directions: "Department of Biomedical Sciences, Carlson College of Veterenary Medicine, Oregon State University"
+  directions: "Department of Biomedical Sciences, Carlson College of Veterinary Medicine, Oregon State University"
   #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
