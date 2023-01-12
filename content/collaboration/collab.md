@@ -39,10 +39,6 @@ with several companies.
             Small molecule ligand-conjugated PMOs. Ligand and receptor interaction permits tissue-specific
             delivery of PMOs.
         </li>
-        <li>
-            Protein-conjugated PMOs. Antibody-PMO conjugates are currently in clinical trials. This is
-            another tissue-specific way to deliver PMOs to cells.
-        </li>
     </ol>
 </div>
 

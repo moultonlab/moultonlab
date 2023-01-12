@@ -18,7 +18,7 @@ content:
   email: Hong.Moulton@oregonstate.edu
   phone: (541) 737-6954
   address:
-    street: 450 SW 30th Street
+    street: "Dryden Hall 212A, 450 SW 30th Street"
     city: Corvallis
     region: OR
     postcode: '97331'
@@ -27,10 +27,7 @@ content:
   coordinates:
     latitude: '44.5631'
     longitude: '-123.2851'
-  directions: Dryden Hall 212A
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  directions: "Department of Biomedical Sciences, Carlson College of Veterenary Medicine, Oregon State University"
   #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
@@ -44,6 +41,3 @@ content:
 design:
   columns: '1'
 ---
-The Moulton lab provides peptide and morpholino conjugation service for fee and/or collaboration.
-
-Please contact us for more information.
