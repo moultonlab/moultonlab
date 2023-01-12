@@ -20,7 +20,7 @@ main:
     url: collaboration
     weight: 60
   - name: Publications
-    url: https://www.ncbi.nlm.nih.gov/myncbi/1ZcihMwuqk5cp4/bibliography/public/
+    url: https://www.ncbi.nlm.nih.gov/myncbi/hong.moulton.2/bibliography/public/
     weight: 65
   - name: Contact
     url: contact
