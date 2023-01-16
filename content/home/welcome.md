@@ -26,14 +26,13 @@ design:
 
 </br>
 
-Our lab develops new ways for in vivo delivery of antisense oligomers (ASOs) such as
-phosphorodiamidate morpholino oligos (PMOs) to their target RNAs. We work on to improve delivery of
-PMOs into cells in adult tissues, enabling the therapeutic use of PMOs for a broad range of diseases.
-With combined experience of over 70 years in the research and drug development of PMOs, the
-Moulton lab continues to be involved in cutting-edge biomedical research in viral, bacterial, genetic
-diseases as well as cancers. We are funded by grants from NIH, DoD, USDA, private foundations and
-industrial contracts. We supply our delivery enabled PMOs to academic and industrial communities for
-research and drug development.
+The Moulton lab has over 70 years of combined experience in the research and drug development of PMOs, phosphorodiamidate morpholino oligos.
+PMOs are a type of antisense oligomers (ASOs) and we have developed new ways for their in-vivo delivery to target RNAs.
+This includes conjugating PMOs to peptides, small molecule ligands, and proteins.
+Improvement of delivery enables therapeutic use of PMOs for a broad range of diseases.
+They continue to be involved in cutting-edge biomedical research in viral, bacterial, and genetic diseases as well as cancers.
+We are funded by grants from NIH, DoD, USDA, private foundations, and industrial contracts.
+We supply our delivery-enabled PMOs to academic and industrial communities for research and drug development.
 
-Our lab also provides PMO conjugation service for fee and/or collaboration. Please [contact us](./contact) for more information.
-We can conjugate PMOs to peptides, small molecule ligands, and proteins.
+Our lab also provides PMO conjugation service for fee and/or collaboration.
+Please [contact us](./contact) for more information.

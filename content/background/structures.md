@@ -23,7 +23,7 @@ cells that have taken up PMOs, delivering small doses of the oligos to the site 
 therapeutic effect. To apply PMOs with better efficacy for DMD and more broadly in human diseases,
 good techniques for enhancing their delivery in vivo are needed.
 
-There is another need for effective
+There is an additional need for the effective
 delivery of PMOs into bacterial cells without toxicity to human cells, allowing therapeutic targeting of
 PMOs to bacterial diseases. Other applications involve targeting PMOs for uptake into different animals,
 such as our current work on enhanced PMO delivery into corals to study the mechanisms of coral

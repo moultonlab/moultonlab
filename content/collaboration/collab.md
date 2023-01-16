@@ -18,15 +18,14 @@ design:
 ---
 
 We collaborate with many researchers both domestically and internationally including OSU, Mount Sinai
-School of Medicine, Rocky Mountain Laboratories, Scripps Research, University of North Carolina
+School of Medicine, Rocky Mountain Laboratories, Scripps Research Institute, University of North Carolina
 (Chapel Hill and Wilmington), University of Florida, University of Massachusetts Chan Medical School,
 UCLA, University of Alberta in Canada, Philipps-University Marburg in Germany and more, as well as
 with several companies.
 
 
 <div class="center-text space-bot">
-    We provide the following delivery enabled PMOs through collaboration on grant
-    applications and/or service for fee.
+    We provide the following delivery-enabled PMOs through collaboration on grants, contracts, and/or fee for service.
 </div>
 
 <div style="width: 75%; margin: auto;">

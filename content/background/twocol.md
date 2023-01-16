@@ -26,6 +26,6 @@ make targeted changes in gene expression. PMOs have been widely used in developm
 bind RNA transcripts in embryos of model organisms. In embryos, PMOs can be conveniently delivered
 by microinjection into the cytosol of early zygotes. This has demonstrated the power and flexibility of
 the PMO approach when delivery is not an issue. In adult animals, the delivery challenge has inhibited
-widespread application of PMOs. PMOs have been slow to enter the pharmaceutical field as
+the widespread application of PMOs. PMOs have been slow to enter the pharmaceutical field as
 pharmacologically active compounds. This is largely due to their poor uptake across the plasma
 membrane of cells.

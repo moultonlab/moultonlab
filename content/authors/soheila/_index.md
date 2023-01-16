@@ -41,4 +41,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Soheila is a molecular and cell biologist working on identifying a delivery enabled PMO for cancer therapies. She is a professional volleyball player, referee, and soccer fan!
+Soheila is a molecular and cell biologist working on identifying a delivery enabled PMO for cancer therapies.
+She is a volleyball player, soccer player, and referee!
