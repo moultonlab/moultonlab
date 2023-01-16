@@ -51,6 +51,8 @@ on PMO-related research and drug development since 1997. She worked for AVI Biop
 (renamed as Sarepta Therapeutics Inc.) for 13 years with her focus on improving cellular
 delivery of PMOs, and invented the PPMO technology there.
 
-Since 2010, She has been enjoying
-the freedom at OSU to pursue PMO research and drug development in diverse fields and the
-having the honors to work with many outstanding collaborators.
+Since 2010, she has been enjoying
+the freedom at OSU to pursue PMO research and drug development in diverse fields,
+and has had the honor to work with many outstanding collaborators.
+
+Hong enjoys gardening, yoga, and cooking!

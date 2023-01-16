@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Soheila Kazemi
-degree: PhD, DVM
+degree: DVM, PhD
 
 # Is this the primary user of the site?
 superuser: false

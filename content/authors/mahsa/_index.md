@@ -43,4 +43,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Mahsa is an organic chemist and working on chemical modifications of PMOs to enhance delivery. She enjoys hiking, cooking, and travel!
+Mahsa is an organic chemist working on chemical modifications of PMOs to enhance delivery.
+She enjoys hiking, cooking, and travel!
