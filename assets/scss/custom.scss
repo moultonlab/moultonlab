@@ -38,7 +38,16 @@
     div.center-text {
         text-align: center;
     }
+
+    .center {
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+        }
+    }
 }
+
 
 // Hero changes fonts and links for some reason
 // Inconsistent with the rest of the webpage!

@@ -10,11 +10,23 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  css_class: ""
+  css_class: "center"
   css_style: ""
   spacing:
-    padding: ["0", "0", "1rem", "0"]
+    padding: ["1rem", "0rem", "1rem", "0rem"]
 
 ---
-## Welcome!
-{style="color: #133421; font-weight: bold;"}
+
+
+{{< figure src="group_photo.jpg" >}}
+
+The Moulton lab has over 70 years of combined experience in the research and drug development of PMOs, phosphorodiamidate morpholino oligos.
+PMOs are a type of antisense oligomers (ASOs) and we have developed new ways for their in-vivo delivery to target RNAs.
+This includes conjugating PMOs to peptides, small molecule ligands, and proteins.
+Improvement of delivery enables therapeutic use of PMOs for a broad range of diseases.
+They continue to be involved in cutting-edge biomedical research in viral, bacterial, and genetic diseases as well as cancers.
+We are funded by grants from NIH, DoD, USDA, private foundations, and industrial contracts.
+We supply our delivery-enabled PMOs to academic and industrial communities for research and drug development.
+
+Our lab also provides PMO conjugation service for fee and/or collaboration.
+Please [contact us](./contact) for more information.

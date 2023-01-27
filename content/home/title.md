@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 1 # Order that this section will appear.
-title: Moulton Lab
+title: Welcome to the Moulton Lab!
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -14,7 +14,7 @@ design:
   css_class: ""
   css_style: ""
   spacing:
-    padding: ["1rem", "0", "0", "0"]
+    padding: ["2rem", "0", "0", "0"]
 
 ---
 ___
