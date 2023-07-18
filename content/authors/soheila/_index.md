@@ -7,7 +7,7 @@ degree: DVM, PhD
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Past Member
 
 # Organizations/Affiliations
 organizations:
@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Past Members
 ---
 Soheila is a molecular and cell biologist working on identifying a delivery enabled PMO for cancer therapies.
 She is a volleyball player, soccer player, and referee!

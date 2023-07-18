@@ -19,7 +19,12 @@ content:
     - Principal Investigator
     - Researchers
     - Undergraduate Researchers
-    - Past Members
+
+  ###############################################
+  # Comment out line below to show past members #
+  ###############################################
+  #- Past Members
+
 design:
   show_interests: false
   show_role: true
