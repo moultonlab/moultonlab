@@ -8,7 +8,7 @@ degree: PhD
 superuser: false
 
 # Role/position
-role: Postdoctoral Scholar
+role: Past Member
 
 # Organizations/Affiliations
 organizations:
